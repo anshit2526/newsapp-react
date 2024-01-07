@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Israel expanding ground offensive into central Gaza refugee camps - BBC.com",
+            "description": "The Palestinian president condemns the war, as Israel says it will last \"many more months\".",
+            "url": "https://www.bbc.com/news/world-middle-east-67825465",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13096/production/_132147977_40add5f2d4e201cc464a0cd1dacbcfd4fb441412.jpg",
+            "publishedAt": "2023-12-27T12:22:00Z",
+            "content": "Israel's military chief said the war with Hams would last \"many more months\"\r\nIsrael is expanding its ground offensive into Palestinian refugee camps in central Gaza, as it warns the war with Hamas w… [+6045 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ramishah Maruf",
+            "title": "Where you can still buy the latest Apple Watch - CNN",
+            "description": "Now that the White House declined to overturn the ITC ruling, Apple can no longer sell its newest Apple Watch in America. The rule applies to Apple Watch Series 9 and Apple Watch Ultra 2, among other newer models, because they violate patents registered to an…",
+            "url": "https://www.cnn.com/2023/12/27/tech/where-to-buy-the-latest-apple-watch/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1863294002.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-27T12:14:00Z",
+            "content": "After an unfavorable US International Trade Commission ruling, Apple is no longer selling its Apple Watch Series 9 and Apple Watch Ultra 2 in the United States because of a patent dispute.\r\nThe ITC b… [+1896 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "World stocks sail to highest in over a year on rate cut hopes - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/markets/global-markets-wrapup-1-2023-12-27/",
+            "urlToImage": null,
+            "publishedAt": "2023-12-27T12:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "NFL Nation",
+            "title": "NFL Week 17 Power Rankings 2023: How all 32 teams stack up - ESPN",
+            "description": "Which NFL teams are ranked in the top 10? Who is the new No. 1? Plus, who is the rookie of the year on all 32 teams?",
+            "url": "https://www.espn.com/nfl/story/_/page/NFLpowerranking122723/nfl-week-17-power-rankings-poll-2023-plus-all-team-rookie-year",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F1226%2Fnfl_week17%2Dpr_16x9.jpg",
+            "publishedAt": "2023-12-27T12:00:00Z",
+            "content": "Welcome to Week 17 of the 2023 NFL season. A few exciting games over the holidays made an impact on playoff inspirations and the top 10 teams in this week's rankings.\r\nIn addition to the updated rank… [+21650 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Frances Vinall, Karen DeYoung, Leo Sands, Hannah Allam, Gerry Shih, Kareem Fahim, William Booth, Hajar Harb, Miriam Berger",
+            "title": "Israel-Gaza war live updates: Israel expanding fight in refugee camps; Netanyahu adviser meets U.S. officials - The Washington Post",
+            "description": "Ron Dermer, a senior adviser to the Israeli prime minister, met with Secretary of State Antony Blinken and national security adviser Jake Sullivan at the White House.",
+            "url": "https://www.washingtonpost.com/world/2023/12/27/israel-hamas-war-gaza-news-palestine/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCZM7PR7FZEHISHYAQETZILYT4_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-12-27T11:17:41Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Russia warns Japan over providing Patriot air defence systems to Ukraine - Yahoo News",
+            "description": null,
+            "url": "https://news.yahoo.com/russia-warns-japan-over-providing-104446216.html",
+            "urlToImage": null,
+            "publishedAt": "2023-12-27T10:44:46Z",
+            "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 242 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Canada grapples with the effects of deteriorating relations with India and China - NPR",
+            "description": "As relations sour with India and China, Canada is grappling with how to stand up to powerful or authoritarian nations without sacrificing its longstanding values, such as protecting human rights.",
+            "url": "https://www.npr.org/2023/12/27/1220320664/canada-india-relations-sikh-assassination-china",
+            "urlToImage": "https://media.npr.org/assets/img/2023/12/20/img_2521_wide-94ce6d5dd697ce367a7b5e0147cc0716ee3b286b-s1400-c100.jpg",
+            "publishedAt": "2023-12-27T10:01:14Z",
+            "content": "Ice skaters in front of Ottawa City Hall in Ontario on Dec. 12, 2023.\r\nJackie Northam/NPR\r\nOTTAWA On a frigid December evening, ice skaters, bundled up against the cold, zip around an outdoor rink in… [+10821 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "[Removed]"
+            },
+            "author": null,
+            "title": "[Removed]",
+            "description": "[Removed]",
+            "url": "https://removed.com",
+            "urlToImage": null,
+            "publishedAt": "1970-01-01T00:00:00Z",
+            "content": "[Removed]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Robert Brand, Krystof Chamonikolas",
+            "title": "Stock Market Today: Dow, S&P Live Updates for December 27 - Bloomberg",
+            "description": "US futures were steady, with an all-time high this year firmly in sight amid optimism that the Federal Reserve is getting close to cutting interest rates.",
+            "url": "https://www.bloomberg.com/news/articles/2023-12-26/stock-market-today-dow-s-p-live-updates",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iaiXIjn8Ed18/v0/1200x675.png",
+            "publishedAt": "2023-12-27T08:17:47Z",
+            "content": "US futures were steady, with an all-time high this year firmly in sight amid optimism that the Federal Reserve is getting close to cutting interest rates.\r\nFutures on the S&amp;P 500 and the tech-hea… [+217 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Yoonjung Seo, Jessie Yeung",
+            "title": "‘Parasite’ actor Lee Sun-kyun found dead in midst of drug probe, police say - CNN",
+            "description": "South Korean actor Lee Sun-kyun, known for his role in the Academy Award-winning film “Parasite,” has died, according to police in Seoul.",
+            "url": "https://www.cnn.com/2023/12/27/world/lee-sun-kyun-death-south-korea-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231227121730-lee-sun-kyun-2023.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-12-27T06:27:00Z",
+            "content": "South Korean actor Lee Sun-kyun, known internationally for his role in the Academy Award-winning film Parasite, has died while being investigated for illegal drug use, police confirmed Wednesday. He … [+3609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Jake Ciely",
+            "title": "Fantasy Football Rankings Week 17: Sleepers, projections, starts, sits | Demarcus Robinson, Marvin Mims and more - The Athletic",
+            "description": "Jake Ciely has your fantasy football Week 17 ranks, sleepers, game previews and more to win your championships",
+            "url": "https://theathletic.com/5163035/2023/12/27/fantasy-football-rankings-week-17-sleepers-projections-starts-sits/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/11/01195432/USATSI_21444596-scaled.jpg",
+            "publishedAt": "2023-12-27T05:26:59Z",
+            "content": "The fantasy football playoffs are in full swing, and no Christmas present would be better than another win. Lets get into the Week 17 fantasy football rankings, sleepers, game previews and fun with t… [+7470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "WILD OVERTIME ENDING Grizzlies vs Pelicans | December 26, 2023 - NBA",
+            "description": "The Memphis Grizzlies defeated the New Orleans Pelicans, 116-115, in overtime. Ja Morant led the way for the Grizzlies with 31 points, 5 rebounds and 7 assis...",
+            "url": "https://www.youtube.com/watch?v=FrFiECIXIqs",
+            "urlToImage": "https://i.ytimg.com/vi/FrFiECIXIqs/maxresdefault.jpg",
+            "publishedAt": "2023-12-27T05:03:34Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": null,
+            "title": "A US delegation to meet with Mexican government for talks on the surge of migrants at border - The Associated Press",
+            "description": "A top U.S. delegation is to meet with Mexico's president Wednesday in what many see as a bid to get him to do more to stem a surge of migrants reaching the U.S. southwestern border. Mexican President Andrés Manuel López Obrador says he is willing to help, as …",
+            "url": "https://apnews.com/article/mexico-us-immigration-meeting-blinken-f39247c4848cb7cf1097fcbaa84edcbd",
+            "urlToImage": "https://dims.apnews.com/dims4/default/d390f87/2147483647/strip/true/crop/4672x2628+0+244/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F05%2F72%2F390ea6b71a699a088605e7c40f61%2F983be113daf54783bea742edc780f070",
+            "publishedAt": "2023-12-27T05:02:55Z",
+            "content": "MEXICO CITY (AP) A top U.S. delegation is to meet with Mexicos president Wednesday in what many see as a bid to get Mexico to do more to stem a surge of migrants reaching the U.S. southwestern border… [+4486 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nbcsportsbayarea.com"
+            },
+            "author": "Jennifer Lee Chan",
+            "title": "How PFF graded Purdy, 49ers in Christmas loss to Ravens - NBC Sports Bay Area",
+            "description": "The 49ers’ PFF grades from their 33-19 loss to the Baltimore Ravens on Monday are as disappointing as expected.",
+            "url": "http://www.nbcsportsbayarea.com/nfl/san-francisco-49ers/pff-grades-brock-purdy-ravens/1685022/",
+            "urlToImage": "https://media.nbcsportsbayarea.com/2023/12/brock-purdy-USATSI_22173810.jpg?quality=85&strip=all&resize=1200%2C675",
+            "publishedAt": "2023-12-27T04:43:54Z",
+            "content": "The 49ers' PFF grades from their 33-19 loss to the Baltimore Ravens on Monday are as disappointing as expected.\r\nBrock Purdy was under pressure much of the game at Levi's Stadium, but that was not th… [+3375 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WYFF4 Greenville"
+            },
+            "author": "Journie Crenshaw",
+            "title": "Flu forces visitation changes at Prisma Health, officials say - WYFF4 Greenville",
+            "description": "Prisma Health has announced visitation changes amid increased cases of influenza and other respiratory illnesses across the region.",
+            "url": "https://www.wyff4.com/article/flu-forces-visitation-changes-prisma-health/46230328",
+            "urlToImage": "https://kubrick.htvapps.com/vidthumb/388271eb-443e-481f-abe5-928c06a2ab87/388271eb-443e-481f-abe5-928c06a2ab87_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+            "publishedAt": "2023-12-27T04:12:00Z",
+            "content": "GREENVILLE, S.C. —Prisma Health has announced visitation changes amid increased cases of influenza and other respiratory illnesses across the region.\r\nOfficials with Prisma Heath said it will begin r… [+658 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Police investigating incidents involving Colorado justices after Trump removed from state's ballot - POLITICO",
+            "description": "\"Reports of threats or harassment\" are being investigated.",
+            "url": "https://www.politico.com/news/2023/12/26/colorado-justices-after-trump-removed-from-states-ballot-00133222",
+            "urlToImage": "https://static.politico.com/42/cb/85ea63f147e9a638a6095c84b5ea/election-2024-trump-insurrection-amendment-22615.jpg",
+            "publishedAt": "2023-12-27T03:22:06Z",
+            "content": "Officers responded to the home of one justice on Thursday evening, but police said it appeared to be a hoax report. That case is also still being investigated police said.\r\nThe FBI said it is working… [+1198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Sumanti Sen",
+            "title": "Hawaii influencer Theresa Cachuela shot dead by husband in front of her child - Hindustan Times",
+            "description": "The suspect, Jason Calchuela, later killed himself, and his body was found behind a residence",
+            "url": "https://www.hindustantimes.com/world-news/us-news/hawaii-influencer-shot-dead-by-husband-in-front-of-her-child-weeks-after-she-filed-for-restraining-order-101703644206791.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/12/27/1600x900/Untitled_1703644448546_1703644448747.jpg",
+            "publishedAt": "2023-12-27T02:38:24Z",
+            "content": "A Hawaii influencer was shot dead by her husband, who later died by suicide, it has been revealed. Theresa Cachuela, 33, was murdered in front of her 11-year-old daughter by her estranged husband Jas… [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Page Six"
+            },
+            "author": "Nicki Cox",
+            "title": "Taylor Swift's parents spotted mingling with Travis Kelce's dad Ed in private suite before Chiefs game - Page Six",
+            "description": "Swift brought parents Scott and Andrea to the Kansas City Chiefs’ Christmas Day game on Monday. While Kelce’s dad, Ed, was also there, his mom, Donna, could not make it.",
+            "url": "https://pagesix.com/2023/12/26/parents/taylor-swifts-parents-spotted-mingling-with-travis-kelces-dad-ed-before-chiefs-game/",
+            "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2023/12/74142177.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2023-12-27T01:26:42Z",
+            "content": "Blending the families. \r\nTaylor Swift’s parents, Scott and Andrea Swift, were photographed chatting with Travis Kelce’s dad, Ed Kelce, at the Kansas City Chiefs’ game against the Las Vegas Raiders on… [+3516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eonline.com"
+            },
+            "author": null,
+            "title": "Mariah Carey and Bryan Tanaka Break Up After 7 Years - E! NEWS",
+            "description": null,
+            "url": "https://www.eonline.com/videos/2295156803532/mariah-carey-and-bryan-tanaka-break-up-after-7-years",
+            "urlToImage": null,
+            "publishedAt": "2023-12-27T01:09:19Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Kanye West apologizes for antisemitic comments he made last year - CBC News",
+            "description": "American rapper Ye, formerly known as Kanye West, issued an apology to the Jewish community Tuesday for antisemitic remarks he made last year. Rabbi Mordecha...",
+            "url": "https://www.youtube.com/watch?v=Rj-kRUGt3Mg",
+            "urlToImage": "https://i.ytimg.com/vi/Rj-kRUGt3Mg/maxresdefault.jpg",
+            "publishedAt": "2023-12-27T00:47:35Z",
+            "content": null
+        }
+    ]
+}
