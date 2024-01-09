@@ -1,0 +1,8 @@
+.card {
+    box-sizing: border-box;
+    margin: 5px;
+}
+.card span {
+    left: 85%;
+}
+
