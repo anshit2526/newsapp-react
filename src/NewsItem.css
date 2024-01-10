@@ -2,7 +2,10 @@
     box-sizing: border-box;
     margin: 5px;
 }
-.card span {
-    left: 85%;
-}
 
+.card>div>span {
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    right: 0;
+}

@@ -30,37 +30,27 @@ export default class News extends Component {
     }
 
     async updateNews() {
+        this.props.setProgress(10);
         const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=2225fe2477514334b282e55903db9ac1&page=${this.state.page}&pageSize=${this.props.pageSize}`;
         this.setState({ loading: true });
         let data = await fetch(url);
+        this.props.setProgress(30);
         let parsedData = await data.json();
+        this.props.setProgress(70);
         this.setState({
             articles: parsedData.articles,
             totalResults: parsedData.totalResults,
             loading: false
         })
+        this.props.setProgress(100);
     }
 
     async componentDidMount() {
         this.updateNews();
     }
 
-    // handlePrevClick = async () => {
-    //     this.setState({
-    //         page: this.state.page - 1
-    //     })
-    //     this.updateNews()
-    // }
-
-    // handleNextClick = async () => {
-    //     this.setState({
-    //         page: this.state.page + 1
-    //     })
-    //     this.updateNews()
-    // }
-
     capitalize(string) {
-        return string.charAt(0).toUpperCase() + string.substring(1, string.lengthS)
+        return string.charAt(0).toUpperCase() + string.slice(1);
     }
 
 
@@ -102,10 +92,6 @@ export default class News extends Component {
                     </div>
 
                 </InfiniteScroll>
-                {/* <div className="container d-flex justify-content-between">
-                    <button id='prev-btn' disabled={this.state.page <= 1} type='button' className="btn btn-primary" onClick={this.handlePrevClick}>&larr; Previous</button>
-                    <button disabled={this.state.page + 1 > Math.ceil(this.state.totalResults / 9)} id='next-btn' type='button' className="btn btn-primary" onClick={this.handleNextClick}>Next &rarr;</button>
-                </div> */}
             </>
         )
     }
