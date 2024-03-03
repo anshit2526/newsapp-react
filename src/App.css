@@ -8,3 +8,13 @@ body::before {
     z-index: -1;
     filter: blur(10px);
 }
+
+nav {
+    backdrop-filter: blur(15px);
+    background-color: rgba(0, 0, 0, 70%);
+    color: white;
+}
+
+h1 {
+    margin-top: 80px;
+}
