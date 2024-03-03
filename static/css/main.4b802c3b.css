@@ -1,0 +1,2 @@
+.card{box-sizing:border-box;margin:5px}.card>div>span{display:flex;justify-content:flex-end;position:absolute;right:0}body:before{background-image:url(https://picsum.photos/1366/768);background-size:cover;content:"";filter:blur(10px);height:100vh;position:fixed;width:100vw;z-index:-1}nav{-webkit-backdrop-filter:blur(15px);backdrop-filter:blur(15px);background-color:#000000b3;color:#fff}h1{margin-top:80px}
+/*# sourceMappingURL=main.4b802c3b.css.map*/
